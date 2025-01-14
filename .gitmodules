@@ -26,9 +26,3 @@
 [submodule "MAS_372"]
 	path = MAS_372
 	url = https://github.com/Drum4life9/MAS_372
-[submodule "CSC_350"]
-	path = CSC_350
-	url = https://github.com/Drum4life9/CSC_350
-[submodule "CSC_361"]
-	path = CSC_361
-	url = https://github.com/Drum4life9/CSC_361
