@@ -26,3 +26,9 @@
 [submodule "MAS_372"]
 	path = MAS_372
 	url = https://github.com/Drum4life9/MAS_372
+[submodule "CSC_361_Concurrent"]
+	path = CSC_361_Concurrent
+	url = https://github.com/Drum4life9/CSC_361_Concurrent
+[submodule "CSC_350_Deep_Learning"]
+	path = CSC_350_Deep_Learning
+	url = https://github.com/Drum4life9/CSC_350_Deep_Learning
