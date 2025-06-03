@@ -32,3 +32,6 @@
 [submodule "CSC_350_Deep_Learning"]
 	path = CSC_350_Deep_Learning
 	url = https://github.com/Drum4life9/CSC_350_Deep_Learning
+[submodule "CSC_362_Distributed_Systems"]
+	path = CSC_362_Distributed_Systems
+	url = https://github.com/Drum4life9/CSC_362_Distributed_Systems
