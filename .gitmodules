@@ -38,3 +38,6 @@
 [submodule "CSC_385_Comp_solve2"]
 	path = CSC_385_Comp_solve2
 	url = https://github.com/Drum4life9/CSC_385_Comp_solve2.git
+[submodule "DSC_340_Machine_learn"]
+	path = DSC_340_Machine_learn
+	url = https://github.com/Drum4life9/DSC_340_Machine_learn.git
