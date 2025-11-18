@@ -1,42 +1,42 @@
 [submodule "CSC_182_C_Sharp_Language_Lab"]
 	path = CSC_182
-	url = https://github.com/Drum4life9/CSC_182_C_Sharp_Language_Lab/tree/main
+	url = https://github.com/Drum4life9/CSC_182_C_Sharp_Language_Lab
 [submodule "CSC_183_Dart_Flutter_Language_Lab"]
 	path = CSC_183
-	url = https://github.com/Drum4life9/CSC_183_Dart_Flutter_Language_Lab/tree/main
+	url = https://github.com/Drum4life9/CSC_183_Dart_Flutter_Language_Lab
 [submodule "CSC_241_Cpp_Programing_2"]
 	path = CSC_241
-	url = https://github.com/Drum4life9/CSC_241_Cpp_Programing_2/tree/main
+	url = https://github.com/Drum4life9/CSC_241_Cpp_Programing_2
 [submodule "CSC_242_Alg_Data_Struct"]
 	path = CSC_242
-	url = https://github.com/Drum4life9/CSC_242_Alg_Data_Struct/tree/main
+	url = https://github.com/Drum4life9/CSC_242_Alg_Data_Struct
 [submodule "CSC_285_Comp_Solve1"]
 	path = CSC_285
-	url = https://github.com/Drum4life9/CSC_285_Comp_Solve1/tree/main
+	url = https://github.com/Drum4life9/CSC_285_Comp_Solve1
 [submodule "CSC_352_Artificial_Intelligence"]
 	path = CSC_352
-	url = https://github.com/Drum4life9/CSC_352_Artificial_Intelligence/tree/main
+	url = https://github.com/Drum4life9/CSC_352_Artificial_Intelligence
 [submodule "CSC_Random"]
 	path = CSC_Random
 	url = https://github.com/Drum4life9/CSC_Random
 [submodule "CSC_351_Soft_Architecture"]
 	path = CSC_351
-	url = https://github.com/Drum4life9/CSC_351_Soft_Architecture/tree/main
+	url = https://github.com/Drum4life9/CSC_351_Soft_Architecture
 [submodule "MAS_372_Stat_Modeling"]
 	path = MAS_372
-	url = https://github.com/Drum4life9/MAS_372_Stat_Modeling/tree/main
+	url = https://github.com/Drum4life9/MAS_372_Stat_Modeling
 [submodule "CSC_361_Concurrent"]
 	path = CSC_361_Concurrent
-	url = https://github.com/Drum4life9/CSC_361_Concurrent/tree/main
+	url = https://github.com/Drum4life9/CSC_361_Concurrent
 [submodule "CSC_350_Deep_Learning"]
 	path = CSC_350_Deep_Learning
-	url = https://github.com/Drum4life9/CSC_350_Deep_Learning/tree/main
+	url = https://github.com/Drum4life9/CSC_350_Deep_Learning
 [submodule "CSC_362_Distributed_Systems"]
 	path = CSC_362_Distributed_Systems
-	url = https://github.com/Drum4life9/CSC_362_Distributed_Systems/tree/master
+	url = https://github.com/Drum4life9/CSC_362_Distributed_Systems
 [submodule "CSC_385_Comp_solve2"]
 	path = CSC_385_Comp_solve2
-	url = https://github.com/Drum4life9/CSC_385_Comp_solve2/tree/master
+	url = https://github.com/Drum4life9/CSC_385_Comp_solve2
 [submodule "DSC_340_Machine_learn"]
 	path = DSC_340_Machine_learn
 	url = https://github.com/Drum4life9/DSC_340_Machine_learn
